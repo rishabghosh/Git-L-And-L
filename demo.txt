@@ -5,3 +5,4 @@ second commit on master
 third commit on master
 
 fourth commit on master
+first commit on branch-A

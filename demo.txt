@@ -6,3 +6,9 @@ third commit on master
 
 fourth commit on master
 first commit on branch-A
+
+first commit on branch-B
+
+second commit on branch-B
+
+third commit on branch-B
